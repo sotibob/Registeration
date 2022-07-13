@@ -1,0 +1,14 @@
+C:\Users\Sotonte Bob-manuel\source\repos\Registeration\Registeration\bin\Debug\Registeration.exe.config
+C:\Users\Sotonte Bob-manuel\source\repos\Registeration\Registeration\bin\Debug\Registeration.exe
+C:\Users\Sotonte Bob-manuel\source\repos\Registeration\Registeration\bin\Debug\Registeration.pdb
+C:\Users\Sotonte Bob-manuel\source\repos\Registeration\Registeration\obj\Debug\Registeration.csprojAssemblyReference.cache
+C:\Users\Sotonte Bob-manuel\source\repos\Registeration\Registeration\obj\Debug\Registeration.Form1.resources
+C:\Users\Sotonte Bob-manuel\source\repos\Registeration\Registeration\obj\Debug\Registeration.Properties.Resources.resources
+C:\Users\Sotonte Bob-manuel\source\repos\Registeration\Registeration\obj\Debug\Registeration.csproj.GenerateResource.cache
+C:\Users\Sotonte Bob-manuel\source\repos\Registeration\Registeration\obj\Debug\Registeration.csproj.CoreCompileInputs.cache
+C:\Users\Sotonte Bob-manuel\source\repos\Registeration\Registeration\obj\Debug\Registeration.exe
+C:\Users\Sotonte Bob-manuel\source\repos\Registeration\Registeration\obj\Debug\Registeration.pdb
+C:\Users\Sotonte Bob-manuel\source\repos\Registeration\Registeration\obj\Debug\Registeration.Admin.resources
+C:\Users\Sotonte Bob-manuel\source\repos\Registeration\Registeration\obj\Debug\Registeration.StudentInfo.resources
+C:\Users\Sotonte Bob-manuel\source\repos\Registeration\Registeration\obj\Debug\Registeration.DisplaySchedule.resources
+C:\Users\Sotonte Bob-manuel\source\repos\Registeration\Registeration\obj\Debug\Registeration.AddSchedule.resources
